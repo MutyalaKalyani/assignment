@@ -1,0 +1,62 @@
+.divContainerStatus{
+     display: flex;
+     padding: 10px;
+     min-height: 100%;
+  }
+  .boxContainerStatus{
+     
+      width:20vw;
+      margin:10px;
+  }
+  .userInfos{
+      display: flex;
+      justify-content: space-between;
+  }
+  .userInfoDivs{
+      display: flex;
+      margin: 10px;
+      align-items: center;
+  }
+  .titleStyles{
+      margin:0 10px;
+      font-size: 15px;
+      font-weight: 500;
+  }
+  .cardLengths{
+      font-size: 15px;
+      color: grey;
+  }
+  .logos{
+      margin-right: 5px;
+  }
+  .cardContainers{
+      background-color: #ffff;
+      border-radius: 5px;
+      height:17vh;
+      width:100%;
+  margin-bottom:20px;
+  margin-top: 10px;
+  padding: 10px;
+  box-sizing: border-box;
+  }
+  .camExtraInfos{
+      display: flex;
+      align-items: end;
+      margin-top: 5px;
+      margin-left: 5px;
+  }
+  .camIds{
+      font-size: 15px;
+      color: grey;
+  }
+  .camTitles{
+      font-size: 14px;
+     font-weight: 500;
+     width:80%;
+     display: flex;
+     align-items: center;
+     height: 50%;
+  }
+  .camTags{
+      margin-left:10px
+  }

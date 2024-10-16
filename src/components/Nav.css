@@ -1,0 +1,45 @@
+.Nav_header{
+   height:7vh;
+   display: flex;
+   align-items: center;
+   margin-left: 20px;
+   color: black;
+}
+.displaySelect{
+    border: 1px solid grey;
+    display: flex;
+    align-items: center;
+    padding:1px 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.displayTitle{
+    margin-left: 10px;
+}
+.displayOptions{
+    width:22vw;
+    height: 100px;
+    position: absolute;
+    top:50px;
+    left: 40px;
+    border-radius: 10px;
+    background-color: #fffe;
+    
+}
+.option{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 15px;
+}
+.optionStyle
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width:6vw;
+    padding:0 5px;
+    border: 1px solid gray;
+    border-radius: 4px;
+    cursor: pointer;
+}
